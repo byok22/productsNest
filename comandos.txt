@@ -20,5 +20,9 @@ Generar un controlador
  --Instalar libreria para env
 
  npm i dotenv
- 
-     
+
+
+
+-- Esquemas de Variables de entorno
+ npm i joi  
+
