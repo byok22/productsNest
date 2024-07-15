@@ -1,0 +1,24 @@
+Generar un controlador
+--nest g res products
+
+--librerias necesariioas
+ npm i class-validator class-transformer
+
+
+ --Correr con watch activado:
+
+ npm run start:dev  
+
+ --Generar nueva app
+ nest new products      
+
+
+ --Instalar NEst cli
+
+ npm i -g @nestjs/cli
+
+ --Instalar libreria para env
+
+ npm i dotenv
+ 
+     
